@@ -1,0 +1,10 @@
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.exe.config
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.exe
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\bin\Debug\BluelimeMaps.pdb
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.csprojAssemblyReference.cache
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.frm.resources
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.Properties.Resources.resources
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.exe
+C:\Users\Julian\source\repos\BluelimeMaps\BluelimeMaps\obj\Debug\BluelimeMaps.pdb
